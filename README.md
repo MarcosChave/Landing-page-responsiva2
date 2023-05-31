@@ -4,3 +4,5 @@
 <img src="assets/captura-de-tela.png">
 
 
+## Tecnologias ultilizadas:
+
